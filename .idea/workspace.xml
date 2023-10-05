@@ -10,35 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6320f3e7-10da-4e96-9725-c85e78c01797" name="Changes" comment="LoginPanel Partially done">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/GMS_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_43_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/database/GMS.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/database/GMS.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/addService.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/car-service.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/historyEntry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/historyEntry00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/jdbc/sqlite-jdbc-3.43.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UIComponents/GTextArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GMS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/AddCustomerFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/AddCustomerFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/CarInfoFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/CarInfoFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/DeleteCarFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/DeleteCarFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/HistoryFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/HistoryFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/LoginFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/LoginFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/MainFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/ServicesFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/ServicesFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/UpdateCustomerFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/UpdateCustomerFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/customerInfoFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/customerInfoFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DatabaseComponents/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatabaseComponents/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DatabaseComponents/CarSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatabaseComponents/CarSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DatabaseComponents/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatabaseComponents/Connection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DatabaseComponents/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatabaseComponents/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DatabaseComponents/History.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatabaseComponents/History.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DatabaseComponents/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatabaseComponents/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UIComponents/GFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UIComponents/GFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,31 +39,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "C:/Users/Eyosiyas/IdeaProjects/GMS/assets/jdbc/sqlite-jdbc-3.43.0.0.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Eyosiyas/IdeaProjects/GMS/assets/jdbc/sqlite-jdbc-3.43.0.0.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "sqlite"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Containers" />
@@ -189,15 +161,6 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="RECENT_FILTERS">
       <map>
         <entry key="User">
@@ -209,6 +172,15 @@
                 </option>
               </RecentGroup>
             </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
           </value>
         </entry>
       </map>
