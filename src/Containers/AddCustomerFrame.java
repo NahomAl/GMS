@@ -14,6 +14,8 @@ import java.awt.event.ActionListener;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.awt.Font;
+
 
 import static DatabaseComponents.Connection.getConnection;
 
@@ -41,6 +43,7 @@ public class AddCustomerFrame extends GPanel implements ActionListener{
         this.mainSearchCarModel = mainSearchCarModel;
 
         backButton = new GButton(29, new Color(0x262626), new ImageIcon("assets/images/backArrow.png"), new Point(21, 15));
+
 
         JLabel customerInfo = new JLabel("Customer Information");
         JLabel carInfo = new JLabel("Car Information");

@@ -9,8 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6320f3e7-10da-4e96-9725-c85e78c01797" name="Changes" comment="LoginPanel Partially done">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6320f3e7-10da-4e96-9725-c85e78c01797" name="Changes" comment="cleared hello world">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/database/GMS.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/assets/database/GMS.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Containers/AddCustomerFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/AddCustomerFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +50,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Eyosiyas/IdeaProjects/GMS/assets/jdbc/sqlite-jdbc-3.43.0.0.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nahom/Desktop/projects/GMS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -154,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694762169466</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="cleared hello world">
+      <created>1696466316010</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696466316010</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +205,7 @@
     <MESSAGE value="History and CarInformation Frame added" />
     <MESSAGE value="Debugging LoginPanel" />
     <MESSAGE value="LoginPanel Partially done" />
-    <option name="LAST_COMMIT_MESSAGE" value="LoginPanel Partially done" />
+    <MESSAGE value="cleared hello world" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleared hello world" />
   </component>
 </project>
